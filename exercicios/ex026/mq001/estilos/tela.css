@@ -13,7 +13,7 @@ html {
 }
 
 header {
-    background-color: rgb(136, 134, 134);
+    background-color: rgb(145, 144, 144);
 }
 
 header > h1 {
@@ -26,7 +26,7 @@ menu ul {
 }
 
 menu li {
-    background-color: rgb(51, 50, 50);
+    background-color: rgb(59, 59, 59);
     color: white;
     display: inline-block;
     padding: 10px;
@@ -36,5 +36,4 @@ article {
     width: 600px;
     display: block;
     margin: auto;
-
 }
